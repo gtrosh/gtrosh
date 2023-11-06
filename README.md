@@ -10,7 +10,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 #### Contact me:
-maystar2009@gmail.com
+g.v.troshkina@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-gtro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/galina-troshkina-87683831/)
 <!---
